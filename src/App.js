@@ -6,9 +6,12 @@ import { BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
 
 import HomePage from './pages/HomePage/HomePage'
-import AboutPage from './pages/AboutPage/AboutPage'
-import SkillsPage from './pages/SkillsPage/SkillsPage'
-import ContactPage from './pages/ContactPage/ContactPage'
+import FilmsPage from './pages/FilmsPage/FilmsPage'
+import NovelsPage from './pages/NovelsPage/NovelsPage'
+import PlaysPage from './pages/PlaysPage/PlaysPage'
+import PodcastsPage from './pages/PodcastsPage/PodcastsPage'
+import ShortStoriesPage from './pages/ShortStoriesPage/ShortStoriesPage'
+import SourcesPage from './pages/SourcesPage/SourcesPage'
 
 function App() {
   return (
@@ -18,9 +21,12 @@ function App() {
 
         <Switch>
           <Route path='/' exact component={HomePage}></Route>
-          <Route path='/about' component={AboutPage}></Route>
-          <Route path='/skills' component={SkillsPage}></Route>
-          <Route path='/contact' component={ContactPage}></Route>
+          <Route path='/films' component={FilmsPage}></Route>
+          <Route path='/novels' component={NovelsPage}></Route>
+          <Route path='/plays' component={PlaysPage}></Route>
+          <Route path='/podcasts' component={PodcastsPage}></Route>
+          <Route path='/short_stories' component={ShortStoriesPage}></Route>
+          <Route path='/sources' component={SourcesPage}></Route>
         </Switch>
         
       </Router>

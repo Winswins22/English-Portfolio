@@ -15,15 +15,27 @@ export const NavbarImage = {
 
 export const NavbarItems = [
   {
-    text: "About",
-    linkTo: './about',
+    text: "Films",
+    linkTo: './films',
   },
   {
-    text: "Skills",
-    linkTo: './skills',
+    text: "Novels",
+    linkTo: './novels',
   },
   {
-    text: "Contact",
-    linkTo: './contact',
-  }
+    text: "Plays",
+    linkTo: './plays',
+  },
+  {
+    text: "Podcasts",
+    linkTo: './podcasts',
+  },
+  {
+    text: "Short Stories",
+    linkTo: './short_stories',
+  },
+  {
+    text: "Sources",
+    linkTo: './sources',
+  },
 ]

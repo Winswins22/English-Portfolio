@@ -23,7 +23,7 @@ function Navbar(){
         </NavbarLogo>
         
         <NavbarText style={{textAlign:"center", fontSize:"2rem", paddingBottom:"10px"}}> Winston </NavbarText>
-        <NavbarText style={{textAlign:"center", fontSize:"1rem"}}> Web Developer </NavbarText>
+        <NavbarText style={{textAlign:"center", fontSize:"1rem"}}> English Portfolio </NavbarText>
 
         <NavbarMenu showSidebar={showSidebar}> 
           <BuildNavbarMenu displaySidebar={displaySidebar} NavbarItems={NavbarItems}></BuildNavbarMenu> 
