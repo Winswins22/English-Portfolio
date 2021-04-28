@@ -1,7 +1,7 @@
-# personal-website
- My personal website with my skills, projects, and experience. Currently under construction.
+# English-Portfolio
+ A website with a bunch of relevant work for English.
  
- Can be accessed at: https://winswins22.github.io/personal-website/
+ Can be accessed at: https://winswins22.github.io/English-Portfolio/
 
 # Running the website locally:
  0: Clone this repository and navgate to the directory.
