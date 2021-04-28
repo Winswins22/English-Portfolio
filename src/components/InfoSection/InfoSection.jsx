@@ -34,7 +34,10 @@ const InfoSection = ({title="", description="", img="", alt="Placeholder alt tex
 
           {
             (description !== "") ? 
-              <Text> {description} </Text>
+              (typeof(description) === 'string') ?
+                <Text> {description} </Text>
+              :
+                <>{description}</>
             :
               <></>
           }

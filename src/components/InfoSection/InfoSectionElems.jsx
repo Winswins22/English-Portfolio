@@ -61,7 +61,7 @@ export const HeadingText = styled.p`
 `
 
 export const Text = styled.p`
-  margin: auto;
+  margin: 0;
 
   color: white;
   font-size: 1.5rem;
@@ -69,4 +69,8 @@ export const Text = styled.p`
   @media screen and (max-width: 960px){
     margin-bottom: 20px;
   }
+`
+
+export const NewLine = styled.div`
+  margin-bottom: 1rem;
 `
