@@ -16,26 +16,26 @@ export const NavbarImage = {
 export const NavbarItems = [
   {
     text: "Films",
-    linkTo: './films',
+    linkTo: '/films',
   },
   {
     text: "Novels",
-    linkTo: './novels',
+    linkTo: '/novels',
   },
   {
     text: "Plays",
-    linkTo: './plays',
+    linkTo: '/plays',
   },
   {
     text: "Podcasts",
-    linkTo: './podcasts',
+    linkTo: '/podcasts',
   },
   {
     text: "Short Stories",
-    linkTo: './short_stories',
+    linkTo: '/short_stories',
   },
   {
     text: "Sources",
-    linkTo: './sources',
+    linkTo: '/sources',
   },
 ]
