@@ -13,7 +13,7 @@ import Placeholder from '../../images/placeholder.png'
 import Aos from 'aos'
 import 'aos/dist/aos.css/'
 
-const InfoSection = ({title="", description="", img=Placeholder, alt="Placeholder alt text"}) => {
+const InfoSection = ({title="", description="", img="", alt="Placeholder alt text"}) => {
 
   //Animate on Scroll
   useEffect(() => {

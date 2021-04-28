@@ -52,7 +52,7 @@ export const HeadingText = styled.p`
 
   color: white;
   text-align: left;
-  font-size: 10rem;
+  font-size: 7rem;
 
   @media screen and (max-width: 960px){
     font-size: 5rem;
