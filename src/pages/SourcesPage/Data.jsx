@@ -3,6 +3,8 @@ import Books from '../../images/books.jpg'
 import Plays from '../../images/plays.jpg'
 import Microphone from '../../images/microphone.jpg'
 import Book from '../../images/book.jpg'
+import Stardew from '../../images/sdv.png'
+import Greta from '../../images/greta.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -30,5 +32,13 @@ export const sectionData = [
   {
     description: <Text>Open book by Honou at <a href="https://www.flickr.com/photos/9186550@N08/2936937247">https://www.flickr.com/photos/9186550@N08/2936937247</a></Text>,
     img: Book,
+  },
+  {
+    description: <Text>Stardew Valley picture at <a href="https://stardewvalleywiki.com/Stardew_Valley_Wiki">https://stardewvalleywiki.com/Stardew_Valley_Wiki</a></Text>,
+    img: Stardew,
+  },
+  {
+    description: <Text>Greta Thunberg urges MEPs to show climate leadership by European Parliament at <a href="https://www.flickr.com/photos/36612355@N08/49617793533">https://www.flickr.com/photos/36612355@N08/49617793533</a></Text>,
+    img: Greta,
   },
 ]
