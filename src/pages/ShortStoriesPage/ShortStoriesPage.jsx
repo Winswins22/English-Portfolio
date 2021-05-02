@@ -17,7 +17,7 @@ function ShortStoriesPage(initialLoading = 1){
         setLoading(1);
         //console.log("Set 'timesLoaded' to 1!", timesLoaded)
       }
-    }, 2150)
+    }, 2150-2150) //disable animation
   })
 
   return(
