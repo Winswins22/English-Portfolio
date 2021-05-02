@@ -16,7 +16,7 @@ import {getFinishTimeFromMode} from '../../components/Loader/LoaderTimings'
 
 // See src/components/Loader/LoaderTimings.jsx for more details.
 
-function HomePage({initialLoading = 0, mode="standard"}){
+function TemplatePage({initialLoading = 0, mode="standard"}){
 
   const [timesLoaded, setLoading] = useState(initialLoading);
 
@@ -46,4 +46,4 @@ function HomePage({initialLoading = 0, mode="standard"}){
   )
 }
 
-export default HomePage
+export default TemplatePage
