@@ -8,7 +8,7 @@ import {sectionData} from './Data'
 
 // initialLoading:
 // Set to '1' to skip loader animation.
-function SourcesPage(initialLoading = 0){
+function SourcesPage(initialLoading = 1){
   const [timesLoaded, setLoading] = useState(initialLoading);
 
   useEffect(() => {
