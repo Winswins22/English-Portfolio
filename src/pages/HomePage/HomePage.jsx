@@ -8,7 +8,7 @@ import {sectionData} from './Data'
 
 // initialLoading:
 // Set to '1' to skip loader animation.
-function HomePage(initialLoading = 1){
+function HomePage({initialLoading = 0}){
   const [timesLoaded, setLoading] = useState(initialLoading);
 
   useEffect(() => {
@@ -17,7 +17,7 @@ function HomePage(initialLoading = 1){
         setLoading(1);
         //console.log("Set 'timesLoaded' to 1!", timesLoaded)
       }
-    }, 2150-2150) //disable animation
+    }, 2150)
   })
 
   return(

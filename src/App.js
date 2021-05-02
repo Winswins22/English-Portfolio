@@ -14,6 +14,9 @@ import ShortStoriesPage from './pages/ShortStoriesPage/ShortStoriesPage'
 import SourcesPage from './pages/SourcesPage/SourcesPage'
 
 function App() {
+
+  console.log("Debug: v0.0.02")
+
   return (
     <>
       <Router>
