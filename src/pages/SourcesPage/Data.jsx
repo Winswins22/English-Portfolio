@@ -6,6 +6,7 @@ import Book from '../../images/book.jpg'
 import Stardew from '../../images/sdv.png'
 import Greta from '../../images/greta.jpg'
 import Police from '../../images/police.jpg'
+import Nature from '../../images/nature.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -45,5 +46,9 @@ export const sectionData = [
   { 
     description: <Text>Police watching Port Shutdown by nereocystis at <a href="https://www.flickr.com/photos/56789206@N08/7011380709">https://www.flickr.com/photos/56789206@N08/7011380709</a></Text>,
     img: Police,
+  },
+  { 
+    description: <Text>nature by barnyz at <a href="https://www.flickr.com/photos/75487768@N04/6834290450">https://www.flickr.com/photos/75487768@N04/6834290450</a></Text>,
+    img: Nature,
   },
 ]

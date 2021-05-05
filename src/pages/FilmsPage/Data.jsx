@@ -1,6 +1,7 @@
 import Movie from '../../images/movie.jpg'
 import Greta from '../../images/greta.jpg'
 import Police from '../../images/police.jpg'
+import Nature from '../../images/nature.jpg'
 
 export const sectionData = [
   {
@@ -16,5 +17,10 @@ export const sectionData = [
     title: "Homeroom",
     description: "The film influenced my opinion on defunding the police as I had not been previously exposed to this topic. The movement for defunding the police calls for alternate and more specialized ways of responding to different situations, instead of using the police for most situations. For example, in schools, students are often arrested for minor issues like talking back to their teachers. One example of defunding the police in schools would be to replace the police with social workers to help improve the mental health of students, instead of using police and putting students under pressure due to the risk of being arrested. I think that police should be defunded, as not all situations are best handled with police.",
     img: Police,
+  },
+  {
+    title: "Kiss the Ground",
+    description: "I sat outdoors in my backyard. The wind was a peaceful touch, and the rustling of the leaves put me at peace. The experience made me feel very peaceful. I was able to see a lot of plants, hear the leaves rustling, and felt the touch of the wind. I discovered that being outside in nature is very peaceful.",
+    img: Nature,
   },
 ]
