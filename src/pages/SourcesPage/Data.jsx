@@ -5,6 +5,7 @@ import Microphone from '../../images/microphone.jpg'
 import Book from '../../images/book.jpg'
 import Stardew from '../../images/sdv.png'
 import Greta from '../../images/greta.jpg'
+import Police from '../../images/police.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -40,5 +41,9 @@ export const sectionData = [
   {
     description: <Text>Greta Thunberg urges MEPs to show climate leadership by European Parliament at <a href="https://www.flickr.com/photos/36612355@N08/49617793533">https://www.flickr.com/photos/36612355@N08/49617793533</a></Text>,
     img: Greta,
+  },
+  { 
+    description: <Text>Police watching Port Shutdown by nereocystis at <a href="https://www.flickr.com/photos/56789206@N08/7011380709">https://www.flickr.com/photos/56789206@N08/7011380709</a></Text>,
+    img: Police,
   },
 ]
