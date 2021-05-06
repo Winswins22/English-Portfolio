@@ -7,6 +7,7 @@ import Stardew from '../../images/sdv.png'
 import Greta from '../../images/greta.jpg'
 import Police from '../../images/police.jpg'
 import Nature from '../../images/nature.jpg'
+import Black from '../../images/black.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -50,5 +51,9 @@ export const sectionData = [
   { 
     description: <Text>nature by barnyz at <a href="https://www.flickr.com/photos/75487768@N04/6834290450">https://www.flickr.com/photos/75487768@N04/6834290450</a></Text>,
     img: Nature,
+  },
+  { 
+    description: <Text>Trayvon Martin Black People Protest by C64-92 at <a href="https://www.flickr.com/photos/84938919@N08/8211278388">https://www.flickr.com/photos/84938919@N08/8211278388</a></Text>,
+    img: Black,
   },
 ]
