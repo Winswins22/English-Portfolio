@@ -8,6 +8,7 @@ import Greta from '../../images/greta.jpg'
 import Police from '../../images/police.jpg'
 import Nature from '../../images/nature.jpg'
 import Black from '../../images/black.jpg'
+import Crowd from '../../images/climateCrowd.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -55,5 +56,9 @@ export const sectionData = [
   { 
     description: <Text>Trayvon Martin Black People Protest by C64-92 at <a href="https://www.flickr.com/photos/84938919@N08/8211278388">https://www.flickr.com/photos/84938919@N08/8211278388</a></Text>,
     img: Black,
+  },
+  { 
+    description: <Text>	Time To Act Climate Change London Protesters Creative Commons by David B Young at <a href="https://www.flickr.com/photos/7755745@N06/16127305743">https://www.flickr.com/photos/7755745@N06/16127305743</a></Text>,
+    img: Crowd,
   },
 ]
