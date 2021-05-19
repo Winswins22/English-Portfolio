@@ -9,6 +9,7 @@ import Police from '../../images/police.jpg'
 import Nature from '../../images/nature.jpg'
 import Black from '../../images/black.jpg'
 import Crowd from '../../images/climateCrowd.jpg'
+import Family from '../../images/family.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -60,5 +61,9 @@ export const sectionData = [
   { 
     description: <Text>	Time To Act Climate Change London Protesters Creative Commons by David B Young at <a href="https://www.flickr.com/photos/7755745@N06/16127305743">https://www.flickr.com/photos/7755745@N06/16127305743</a></Text>,
     img: Crowd,
+  },
+  {
+    description: <Text>	Family by Kipp Jones at <a href="https://www.flickr.com/photos/74446879@N00/325252530">https://www.flickr.com/photos/74446879@N00/325252530</a></Text>,
+    img: Family,
   },
 ]
