@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/English-Portfolio/static/css/main.37056400.chunk.css",
-    "main.js": "/English-Portfolio/static/js/main.ea22bc24.chunk.js",
-    "main.js.map": "/English-Portfolio/static/js/main.ea22bc24.chunk.js.map",
+    "main.js": "/English-Portfolio/static/js/main.0b55fe25.chunk.js",
+    "main.js.map": "/English-Portfolio/static/js/main.0b55fe25.chunk.js.map",
     "runtime-main.js": "/English-Portfolio/static/js/runtime-main.e0a0f267.js",
     "runtime-main.js.map": "/English-Portfolio/static/js/runtime-main.e0a0f267.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/English-Portfolio/static/css/2.ae9e5f60.chunk.css",
@@ -12,13 +12,16 @@
     "static/css/2.ae9e5f60.chunk.css.map": "/English-Portfolio/static/css/2.ae9e5f60.chunk.css.map",
     "static/css/main.37056400.chunk.css.map": "/English-Portfolio/static/css/main.37056400.chunk.css.map",
     "static/js/2.a0c024e6.chunk.js.LICENSE.txt": "/English-Portfolio/static/js/2.a0c024e6.chunk.js.LICENSE.txt",
+    "static/media/basketball.b1e815aa.jpg": "/English-Portfolio/static/media/basketball.b1e815aa.jpg",
     "static/media/black.709b241d.jpg": "/English-Portfolio/static/media/black.709b241d.jpg",
     "static/media/book.766ca86c.jpg": "/English-Portfolio/static/media/book.766ca86c.jpg",
     "static/media/books.20527ebc.jpg": "/English-Portfolio/static/media/books.20527ebc.jpg",
     "static/media/climateCrowd.9b492023.jpg": "/English-Portfolio/static/media/climateCrowd.9b492023.jpg",
     "static/media/coding.6573f239.PNG": "/English-Portfolio/static/media/coding.6573f239.PNG",
     "static/media/face.f9455787.jpg": "/English-Portfolio/static/media/face.f9455787.jpg",
+    "static/media/family.b50b521f.jpg": "/English-Portfolio/static/media/family.b50b521f.jpg",
     "static/media/greta.b5e610f5.jpg": "/English-Portfolio/static/media/greta.b5e610f5.jpg",
+    "static/media/magnifyingGlass.8da3e7ec.jpg": "/English-Portfolio/static/media/magnifyingGlass.8da3e7ec.jpg",
     "static/media/microphone.d12007e7.jpg": "/English-Portfolio/static/media/microphone.d12007e7.jpg",
     "static/media/movie.d1ff71d7.jpg": "/English-Portfolio/static/media/movie.d1ff71d7.jpg",
     "static/media/nature.e5828399.jpg": "/English-Portfolio/static/media/nature.e5828399.jpg",
@@ -31,6 +34,6 @@
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.a0c024e6.chunk.js",
     "static/css/main.37056400.chunk.css",
-    "static/js/main.ea22bc24.chunk.js"
+    "static/js/main.0b55fe25.chunk.js"
   ]
 }
