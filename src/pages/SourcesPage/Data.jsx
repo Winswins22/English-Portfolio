@@ -10,6 +10,8 @@ import Nature from '../../images/nature.jpg'
 import Black from '../../images/black.jpg'
 import Crowd from '../../images/climateCrowd.jpg'
 import Family from '../../images/family.jpg'
+import Basketball from '../../images/basketball.jpg'
+import MagnifyingGlass from '../../images/magnifyingGlass.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -63,7 +65,11 @@ export const sectionData = [
     img: Crowd,
   },
   {
-    description: <Text>	Family by Kipp Jones at <a href="https://www.flickr.com/photos/74446879@N00/325252530">https://www.flickr.com/photos/74446879@N00/325252530</a></Text>,
-    img: Family,
+    description: <Text>	Basketball by mvongrue at <a href="https://www.flickr.com/photos/47611288@N00/3222958404">https://www.flickr.com/photos/47611288@N00/3222958404</a></Text>,
+    img: Basketball,
+  },
+  {
+    description: <Text>	British Money and magnify glass by Images Money at <a href="https://www.flickr.com/photos/59937401@N07/5857443389">https://www.flickr.com/photos/59937401@N07/5857443389</a></Text>,
+    img: MagnifyingGlass,
   },
 ]
