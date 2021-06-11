@@ -9,9 +9,10 @@ import Police from '../../images/police.jpg'
 import Nature from '../../images/nature.jpg'
 import Black from '../../images/black.jpg'
 import Crowd from '../../images/climateCrowd.jpg'
-import Family from '../../images/family.jpg'
+import Family from '../../images/family.jpg' // Oops, forgot to cite :((
 import Basketball from '../../images/basketball.jpg'
 import MagnifyingGlass from '../../images/magnifyingGlass.jpg'
+import Lotto from '../../images/lotto.jpg'
 
 import {Text} from '../../components/InfoSection/InfoSectionElems'
 
@@ -72,4 +73,8 @@ export const sectionData = [
     description: <Text>	British Money and magnify glass by Images Money at <a href="https://www.flickr.com/photos/59937401@N07/5857443389">https://www.flickr.com/photos/59937401@N07/5857443389</a></Text>,
     img: MagnifyingGlass,
   },
+  {
+    description: <Text>	29/1/2013 Lottery ticket by barbourians at <a href="https://www.flickr.com/photos/51607907@N03/8425673057">https://www.flickr.com/photos/51607907@N03/8425673057</a></Text>,
+    img: Lotto,
+  }
 ]
