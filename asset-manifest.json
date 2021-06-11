@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/English-Portfolio/static/css/main.37056400.chunk.css",
-    "main.js": "/English-Portfolio/static/js/main.0b55fe25.chunk.js",
-    "main.js.map": "/English-Portfolio/static/js/main.0b55fe25.chunk.js.map",
+    "main.js": "/English-Portfolio/static/js/main.b5fcfc70.chunk.js",
+    "main.js.map": "/English-Portfolio/static/js/main.b5fcfc70.chunk.js.map",
     "runtime-main.js": "/English-Portfolio/static/js/runtime-main.e0a0f267.js",
     "runtime-main.js.map": "/English-Portfolio/static/js/runtime-main.e0a0f267.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/English-Portfolio/static/css/2.ae9e5f60.chunk.css",
@@ -21,6 +21,7 @@
     "static/media/face.f9455787.jpg": "/English-Portfolio/static/media/face.f9455787.jpg",
     "static/media/family.b50b521f.jpg": "/English-Portfolio/static/media/family.b50b521f.jpg",
     "static/media/greta.b5e610f5.jpg": "/English-Portfolio/static/media/greta.b5e610f5.jpg",
+    "static/media/lotto.733cf40a.jpg": "/English-Portfolio/static/media/lotto.733cf40a.jpg",
     "static/media/magnifyingGlass.8da3e7ec.jpg": "/English-Portfolio/static/media/magnifyingGlass.8da3e7ec.jpg",
     "static/media/microphone.d12007e7.jpg": "/English-Portfolio/static/media/microphone.d12007e7.jpg",
     "static/media/movie.d1ff71d7.jpg": "/English-Portfolio/static/media/movie.d1ff71d7.jpg",
@@ -34,6 +35,6 @@
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.a0c024e6.chunk.js",
     "static/css/main.37056400.chunk.css",
-    "static/js/main.0b55fe25.chunk.js"
+    "static/js/main.b5fcfc70.chunk.js"
   ]
 }
